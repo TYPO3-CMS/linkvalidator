@@ -10,7 +10,7 @@
         <source>Validate links to external URLs and internal resources</source>
       </trans-unit>
       <trans-unit id="description">
-        <source>Checks links to identify broken or unreachable external URLs and internal resources.</source>
+        <source>Identify broken or unreachable external URLs and internal resources.</source>
       </trans-unit>
     </body>
   </file>
